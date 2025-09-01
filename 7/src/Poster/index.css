@@ -1,0 +1,19 @@
+.poster {
+  width: 330px;
+  height: auto;
+}
+
+.poster img {
+  width: inherit;
+  height: auto;
+  object-fit: cover;
+}
+
+.poster .h2 {
+  text-align: center;
+}
+
+.poster .h4 {
+  text-align: center;
+  color: gray;
+}

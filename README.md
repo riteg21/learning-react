@@ -1,6 +1,6 @@
 # ⚛️ React.js Learning Path ⚙️...IN PROCCESS...⚙️
 
-[![React](https://img.shields.io/badge/React-18.2.0-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-19.1-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 **A practical and project-based repository for mastering modern React development from core concepts to advanced patterns.**
 
